@@ -9,3 +9,5 @@
 ||bdurl.net^$important
 ||douyincdn.com^$important
 ||yximgs.com^$important
+||mon.zijieapi.com^$important
+||bytegoofy.com^$important
